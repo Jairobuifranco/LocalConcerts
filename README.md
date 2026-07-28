@@ -4,6 +4,20 @@ LocalConcerts is a full-stack Flask web application for discovering, creating, a
 
 The app gives users a polished event browsing experience with search, genre filters, featured event cards, ticket availability, authentication, booking history, event management, and comments. It was built as a university group project and demonstrates practical full-stack development with Flask, SQLAlchemy, WTForms, Bootstrap, and SQLite.
 
+## Screenshots
+
+### Homepage and Event Discovery
+
+![LocalConcerts homepage with featured event carousel, quick filters, and event cards](docs/screenshots/home.png)
+
+### Event Details
+
+![LocalConcerts event details page with ticket availability and comments](docs/screenshots/event-detail.png)
+
+### Account Login
+
+![LocalConcerts account login page](docs/screenshots/account.png)
+
 ## Project Highlights
 
 - Responsive concert discovery interface with Bootstrap 5
